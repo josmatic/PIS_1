@@ -11,7 +11,10 @@ namespace PIS_1
         {
             Console.WriteLine("Hello world!!!");
             Console.WriteLine(":^)");
+
             Console.WriteLine("Lokalna promjena!");
+            Console.WriteLine("Edit na centralnom serveru!");
+
         }
     }
 }
